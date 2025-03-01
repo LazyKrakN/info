@@ -30,7 +30,7 @@ import random
 
 boys = "boizzz"
 
-boiz= ['bob','bobi','boban','bobita']
+boiz= ['bob','bobi','boban','boberto','bobita']
 
 for boy in boiz:
     print ("I like " + boy + " very much")
