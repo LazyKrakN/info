@@ -20,7 +20,7 @@
 # list2 = [9,5,7,3,4,1,8,2,6]
 # print(list2)
 # print(sorted(list2))
-# import random
+import random
 
 # tuple1 = ('Skoda','Tesla','BMW','Kia')
 # print(tuple1)
@@ -30,7 +30,7 @@
 
 boys = "boizzz"
 
-boiz= ['bob','bobi','boban','boberto','bobita']
+boiz= ['bob','bobi','boban','bobita']
 
 for boy in boiz:
     print ("I like " + boy + " very much")
