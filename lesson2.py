@@ -26,8 +26,14 @@ import random
 # print(tuple1)
 # print(tuple1[0])
 
+#super change I lioke very much
 
+boys = "boizzz"
 
+boiz= ['bob','bobi','boban','boberto','bobita']
+
+for boy in boiz:
+    print ("I like " + boy + " very much")
 
 # dict1 = {'fname':'bob','lname':'lebob','age':25}
 # print(dict1)
